@@ -8,6 +8,7 @@ based on semismooth Newton augmented Lagrangian algorithms.
 For demonstration purposes, you may run 
 
 testClimatedata
+
 testUCI
 
 Main Solver for Sparse Group Lasso problems: SGLasso_SSNAL
