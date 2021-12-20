@@ -19,7 +19,7 @@ For demonstration purposes, you may run
 
 or
 
-step1. download the data in folder `climatedata'
+step1. download data from Releases into folder `climatedata'
 
 step2. in 'climatedata', run 'Climatedata_process.m'
 
