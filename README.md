@@ -19,5 +19,4 @@ If you find the software SparseGroupLasso useful,
 please cite it in your publication:
 
 Yangjing Zhang, Ning Zhang, Defeng Sun, and Kim Chuan Toh, 
-“An efficient Hessian based algorithm for solving large-scale sparse group Lasso problems”,   
-Mathematical Programming 179 (2020) 223--263 [DOI:10.1007/s10107-018-1329-6]
+“An efficient Hessian based algorithm for solving large-scale sparse group Lasso problems”, Mathematical Programming 179 (2020) 223--263.
