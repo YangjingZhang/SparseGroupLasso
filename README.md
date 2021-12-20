@@ -16,7 +16,9 @@ Yangjing Zhang, Ning Zhang, Defeng Sun, and Kim Chuan Toh,
 
 For demonstration purposes, you may run 
 `testUCI.m'
+
 or
+
 step1. download the data in folder `climatedata'
 step2. in 'climatedata', run 'Climatedata_process.m'
 step3. run `testClimatedata.m'
